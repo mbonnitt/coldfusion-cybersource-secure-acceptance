@@ -1,3 +1,4 @@
+<cfscript>
 /*------------------------------------------------------------------ 
 
 	createVendorVars(FORM_NAME, PROFILE[, SIGN_DATA])
@@ -159,3 +160,4 @@
 			}	
 		}
 	}
+</cfscript>
